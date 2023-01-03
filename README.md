@@ -1,6 +1,9 @@
 # LcoProject02
 Website for Restaurant that serves delicious food.
 >Restaurant Website
+
+![image](https://user-images.githubusercontent.com/109961309/210374892-34aa0932-ed56-406f-979e-c14eee80b1f9.png)
+
 This is designed for restaurent business.
 
 *   The index.html file is structured into different parts .
